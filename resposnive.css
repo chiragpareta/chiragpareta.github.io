@@ -1,0 +1,49 @@
+@media screen and (max-width:1100px) {
+    
+    header{
+        width: 100%;
+    }
+    nav {
+        flex-direction: column;
+    }
+
+    .logo {
+        justify-content: center;
+        margin: 4px 0;
+    }
+
+    .logo img {
+        width: 50vh;
+        padding: 16px 33px;
+    }
+    
+    
+    nav ul {
+        justify-content: center;
+    }
+
+    .search i {
+        justify-content: center;
+    }
+
+    .search input {
+        margin: 9px 4px;
+    }
+
+    .btn {
+        width: 28vw;
+        height: 8vh;
+    }
+
+    nav ul {
+        height: 25px;
+    }
+
+    .slider {
+        height: 41vh;
+        width: 80vh;
+    }
+    .card{
+        
+    }
+}
